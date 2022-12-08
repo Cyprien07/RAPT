@@ -1,5 +1,5 @@
 # RAPT 
-![RAPT LOGO](logo_RAPT.png)
+![RAPT LOGO](./assets/images/logo_rapt.png)
 
 
 ## Description
